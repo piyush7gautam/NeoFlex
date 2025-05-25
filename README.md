@@ -36,6 +36,11 @@ Columns: `id`, `title`, `genre`, `image_url`
 4. Configure DB credentials in `DBConnection.java`
 5. Run on Tomcat server
 
-
+craeted by CodexCrew
+team Members
+1.Piyush Kumar Gautam(team leader)
+2.Priya
+3.Nikhil Agrwal
+4.Tarang
 
 
